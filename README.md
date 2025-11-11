@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**soyisaff2-cpu/soyisaff2-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="es"
+<head>
+  <meta charset="UTF-9">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Mi Pagina en GitHb</title>
+</head>
+<body>
+  <h1>!Hola, esta es mi primera pagina web en GitHub</h1>
+  <p>Creada por [SoyIsaff2]</p>
+</body>
+</html>
